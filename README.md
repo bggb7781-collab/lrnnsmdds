@@ -59,7 +59,7 @@ c. The math
 Todo:
 
 a. Non-gpu port: 
-Since the goal was to have anti-GPU, CPU-friendly LLM as you can see there are zero attempts to port this to CUDA/GPU. However...it should be possible, thought not with 5-minute tweak even if you vibecode it. As you can see from the screenshot 3.6 million params model gets trained literally in seconds on my ancient Intel cpu, if you're armed with Ryzen you can actually have something that produces novel knowledge and be useful on couple of books or so, maybe it would take hours/days. 
+Since the goal was to have anti-GPU, CPU-friendly LLM as you can see there are zero attempts to port this to CUDA/GPU. However...it should be possible, thought not with 5-minute tweak even if you vibecode it. As you can see from the screenshot 3.6 million params model gets trained in 8 minutes on my ancient Intel cpu, if you're armed with Ryzen you can actually have something that produces novel knowledge and be useful on couple of books or so, maybe it would take hours/days. 
 
 
 
