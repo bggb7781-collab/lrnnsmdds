@@ -20,3 +20,15 @@ Below are screenshots from my chats with Gemini 3.1 pro and Sonnet 4.6 in additi
 1. What is lrnnsmdds? (Gemini 3.1 pro):
 <img src="https://i.imgur.com/tHfOZHX.png"></img>
 <img src="https://i.imgur.com/dwDcz7H.png"></img>
+
+2. Features/advantages
+<img src="https://i.imgur.com/bdlkr8B.png"></img>
+
+3. The math
+<img src="https://i.imgur.com/eyNdpdV.png"></img>
+<img src="https://i.imgur.com/qZtIPw1.png"></img>
+<img src="https://i.imgur.com/uojftGO.png"></img>
+
+Memory improvement over RNNs (Mamba/RWKV):
+
+<img src="https://i.imgur.com/Sk9kVm9.png"></img>
