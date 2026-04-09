@@ -1,5 +1,5 @@
 /*
- * lrnnSMDDS - linear RNN for CPU (C Implementation)
+ * lrnnSMDDS - linear RNN/Reservoir hybrid for CPU (C Implementation)
  * ======================================================
  * 
  * Features:
