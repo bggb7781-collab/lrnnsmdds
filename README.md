@@ -14,7 +14,8 @@ Linear RNN with **exact recall** over unbounded context at O(1) generation cost.
 <i>
 1. 30-second quickstart
 2. More info
-3. TODO/NAQ (never asked questions)</i>
+3. TODO/NAQ (never asked questions)
+4. Quo vadis...the future</i>
 
 ## 30-second quickstart
 gcc -std=c17 -O3 -march=native --fast-math -o lrnn aismdd.c -lm
@@ -25,10 +26,9 @@ gcc -std=c17 -O3 -march=native --fast-math -o lrnn aismdd.c -lm
 
 <img src="https://i.imgur.com/2UxQe7G.png"></img>
 
-Training, small exmaple:
+Training, small example:
 
 <img src="https://i.imgur.com/I7lsRSh.png"></img>
-
 
 Generation:
 
@@ -87,7 +87,7 @@ c. can it code, make images or videos?
 In theory: yes. Have I tested it for anything other than fiction and non-fiction text? No. 
 It's actually very promising for coding something classic RNNs struggle with greatly, for videos you're guaranteed to have quite the problem given the sequential non-parellilism, but it can be fixed...with some effort. 
 
-<b>Quo Vadis: the future.</b>
+<b>4. Quo Vadis: the future.</b>
 
 This is assistant, it's not the "AGI".
 
