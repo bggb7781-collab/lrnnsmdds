@@ -34,7 +34,7 @@ Generation:
 
 <img src="https://i.imgur.com/Terg7X8.png"></img>
 
-2. More info
+<b>2. More info</b>
 
 Below are screenshots from my chats with Gemini 3.1 pro and Sonnet 4.6 in addition to other screenshots that should get you started with the project:
 
@@ -54,7 +54,7 @@ c. The math
 <img src="https://i.imgur.com/qZtIPw1.png"></img>
 <img src="https://i.imgur.com/uojftGO.png"></img>
 
-3. TODO/NAQ (never asked questions)</i>
+<b>3. TODO/NAQ (never asked questions)</b>
 
 Todo:
 
