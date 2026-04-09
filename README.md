@@ -14,3 +14,9 @@ gcc -std=c17 -O3 -march=native --fast-math -o lrnn aismdd.c -lm
 ./lrnn --train corpus.txt --save model.bin
 
 ./lrnn --load model.bin --seed "AI" --tokens 500
+
+Below are screenshots from my chats with Gemini 3.1 pro and Sonnet 4.6 in addition to other screenshots that should get you started with the project:
+
+1. What is lrnnsmdds? (Gemini 3.1 pro):
+<img src="https://i.imgur.com/tHfOZHX.png"></img>
+<img src="https://i.imgur.com/dwDcz7H.png"></img>
