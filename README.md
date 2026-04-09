@@ -24,7 +24,7 @@ gcc -std=c17 -O3 -march=native --fast-math -o lrnn aismdd.c -lm
 
 ./lrnn --load model.bin --seed "AI" --tokens 500
 
-<img src="https://i.imgur.com/2UxQe7G.png"></img>
+<img src="https://i.imgur.com/zm6v1u8.png"></img>
 
 Training, small example:
 
