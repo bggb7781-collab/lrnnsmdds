@@ -11,6 +11,7 @@ Linear RNN with **exact recall** over unbounded context at O(1) generation cost.
 
 ## 30-second quickstart
 gcc -std=c17 -O3 -march=native --fast-math -o lrnn aismdd.c -lm
+
 ./lrnn --train corpus.txt --save model.bin
 
 ./lrnn --load model.bin --seed "AI" --tokens 500
