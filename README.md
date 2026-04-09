@@ -1,4 +1,4 @@
-# lrnn-SMDDS
+# lrnn-SMDDS v1.0
 
 Linear RNN with **exact recall** over unbounded context at O(1) generation cost. Written in C. No external dependencies.
 
