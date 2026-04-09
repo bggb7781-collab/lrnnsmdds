@@ -1,6 +1,6 @@
 # lrnn-SMDDS
 
-Linear RNN with **exact recall** over unbounded context at O(1) generation cost.
+Linear RNN with **exact recall** over unbounded context at O(1) generation cost. Written in C. No external dependencies.
 
 | Feature | Mamba | RWKV | lrnn-SMDDS |
 |---------|-------|------|------------|
