@@ -18,6 +18,15 @@ gcc -std=c17 -O3 -march=native --fast-math -o lrnn aismdd.c -lm
 
 <img src="https://i.imgur.com/2UxQe7G.png"></img>
 
+Training, small exmaple:
+
+<img src="https://i.imgur.com/I7lsRSh.png"></img>
+
+
+Generation:
+
+<img src="https://i.imgur.com/Terg7X8.png"></img>
+
 Below are screenshots from my chats with Gemini 3.1 pro and Sonnet 4.6 in addition to other screenshots that should get you started with the project:
 
 1. What is lrnnsmdds? (Gemini 3.1 pro):
